@@ -1,2 +1,7 @@
 # markdown-converter
-The program converts from Markdown to HTML
+Программа конвертирует Markdown разметку в HTML.
+
+На вход принимаются в аргумента: имя Markdown файла и имя выходного HTML файла (оба должны лежать в папке *input-files*.
+После выполнения программы в указанном выходном файле будет лежать сконвертированная HTML разметка.
+
+Доступный синтаксис: italic, bold, quote, code, header, strikeout.
